@@ -12,6 +12,7 @@ bresaola_calories = 150
 # Define the nutritional information for each food item
 tuna_protein = 25
 egg_protein = 13
+
 steak_protein = 21
 chicken_protein = 31
 bresaola_protein = 35
